@@ -1,5 +1,5 @@
 # BlenderStuff
-Some stuff with Blender3D.
+Some stuff with Blender3D 2.8x series and above.
 
 # Effects and special effects
 ## CRT screen [[Demo](https://vimeo.com/447801413)]
