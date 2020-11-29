@@ -13,5 +13,5 @@ Use to mimic a CRT screen  that is filmed by a camera. The most important elemen
 To easily create a glittering cloth as in 70s/80s or a Christmas ball. Only based on a procedural Voronoi texture. Add a HDRI image to improve the rendering.
 
 # Scenes
-## YouTube Subscribe
+## YouTube Subscribe [[Demo](https://www.youtube.com/watch?v=wTfFsl24Ra0)]
 Animation for YouTubers who want to include a small animation for subscriptions and notifications in their videos. Default settings for 4K@60FPS videos. If you are editing a 1080p video, reduce the render size to 50%. Available in english and french.
