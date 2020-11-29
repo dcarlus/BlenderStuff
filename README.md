@@ -14,4 +14,4 @@ To easily create a glittering cloth as in 70s/80s or a Christmas ball. Only base
 
 # Scenes
 ## YouTube Subscribe
-Animation for YouTubers who want to include a small animation for subscriptions and notifications in their videos. Default settings for 4K@60FPS videos. If you are editing a 1080p video, reduce the render size to 50%.
+Animation for YouTubers who want to include a small animation for subscriptions and notifications in their videos. Default settings for 4K@60FPS videos. If you are editing a 1080p video, reduce the render size to 50%. Available in english and french.
