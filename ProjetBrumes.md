@@ -50,4 +50,4 @@ Pour ce faire, une excellente vidéo explique parfaitement le principe pour un R
 
 A noter que depuis que cette vidéo a été postée, de petites modifications ont été apportées sur le nom des bootloader. Ainsi, il ne faudra pas choisir un bootloader "stable" comme dans la vidéo, mais "default". Cela correspond à un bootloader très stable qui peut être installé d'office dans les Rapsberry Pi sortis depuis. Le bootloader "default" du 3 septembre 2020 permet par exemple un démarrage depuis un disque externe. Il se peut que si le Raspberry Pi dont vous disposez a été produit après cette date, il dispose déjà d'un bootloader compatible avec le boot USB (il n'y aurait donc rien à faire).
 
-Dernière précision, le Rapsberry Pi OS permet directement de booter via un disque USB. Ce n'est pas forcément le cas de tous les OS, comme par exemple ArchLinux ARM qui peut nécessiter des opérations supplémentaire, plus ou moins complexes.
+Dernière précision, le Rapsberry Pi OS permet directement de booter via un disque USB. Ce n'est pas forcément le cas de tous les OS, comme par exemple ArchLinux ARM qui peut nécessiter des opérations supplémentaires, plus ou moins complexes.
